@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<quote>...Everyone’s lives are like a very long sidewalk. Some are well paved. Others, like mine, have cracks, banana skins and cigarette butts. Your sidewalk is like mine, but probably not as many cracks. Hopefully, one day our sidewalks will meet and we can share a can of condensed milk. </quote>
 
 
-### Contact 🌎
+### Contact me 🌎
 
-[![E-Mail](https://github.com/otirbnaej/otirbnaej/blob/otirbnaej-teste1/email.png)](mailto:otirbnaej@hotmail.com)&nbsp;&nbsp;[![LinkedIn](https://github.com/otirbnaej/otirbnaej/blob/otirbnaej-teste1/linkedin.png)](https://www.linkedin.com/in/otirbnaej)&nbsp; [![Twitter](https://github.com/otirbnaej/otirbnaej/blob/otirbnaej-teste1/twitter.png)](https://twitter.com/otirbnaej)&nbsp;&nbsp;[![Facebook](https://github.com/otirbnaej/otirbnaej/blob/otirbnaej-teste1/facebook.png)](https://www.facebook.com/otirbnaej/)&nbsp;&nbsp;
+[![Facebook](https://github.com/otirbnaej/otirbnaej/blob/otirbnaej-teste1/facebook.png)](https://www.facebook.com/otirbnaej/)&nbsp;&nbsp;[![Twitter](https://github.com/otirbnaej/otirbnaej/blob/otirbnaej-teste1/twitter.png)](https://twitter.com/otirbnaej)&nbsp;&nbsp;[![LinkedIn](https://github.com/otirbnaej/otirbnaej/blob/otirbnaej-teste1/linkedin.png)](https://www.linkedin.com/in/otirbnaej)&nbsp;[![E-Mail](https://github.com/otirbnaej/otirbnaej/blob/otirbnaej-teste1/email.png)](mailto:otirbnaej@hotmail.com)&nbsp;&nbsp;
