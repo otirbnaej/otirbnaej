@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<quote>...Everyone’s lives are like a very long sidewalk. Some are well paved. Others, like mine, have cracks, banana skins and cigarette butts. Your sidewalk is like mine, but probably not as many cracks. Hopefully, one day our sidewalks will meet and we can share a can of condensed milk. </quote>
+<q>...Everyone’s lives are like a very long sidewalk. Some are well paved. Others, like mine, have cracks, banana skins and cigarette butts. Your sidewalk is like mine, but probably not as many cracks. Hopefully, one day our sidewalks will meet and we can share a can of condensed milk. </q>
 
 
 ### Contact me 🌎
