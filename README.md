@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ### Contact 🌎
 
-[![E-Mail](https://github.com/otirbnaej/otirbnaej/blob/ab3b505a60fdd82cb36ad39bfabe57221f880e6b/email.png)](mailto:otirbnaej@hotmail.com)&nbsp;&nbsp;[![LinkedIn](https://github.com/otirbnaej/otirbnaej/main/linkedin.png)](https://www.linkedin.com/in/otirbnaej)&nbsp; [![Twitter](https://github.com/otirbnaej/otirbnaej/main/twitter.png)</g>](https://twitter.com/otirbnaej)&nbsp;&nbsp;[![Facebook](https://github.com/otirbnaej/otirbnaej/main/facebook.png)](https://www.facebook.com/otirbnaej/)&nbsp;&nbsp;
+[![E-Mail](https://github.com/otirbnaej/otirbnaej/blob/otirbnaej-teste1/email.png)](mailto:otirbnaej@hotmail.com)&nbsp;&nbsp;[![LinkedIn](https://github.com/otirbnaej/otirbnaej/blob/otirbnaej-teste1/linkedin.png)](https://www.linkedin.com/in/otirbnaej)&nbsp; [![Twitter](https://github.com/otirbnaej/otirbnaej/blob/otirbnaej-teste1/twitter.png)](https://twitter.com/otirbnaej)&nbsp;&nbsp;[![Facebook](https://github.com/otirbnaej/otirbnaej/blob/otirbnaej-teste1/facebook.png)](https://www.facebook.com/otirbnaej/)&nbsp;&nbsp;
