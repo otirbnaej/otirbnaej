@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<q>...everyone’s lives are like a very long sidewalk. Some are well paved. Others, like mine, have cracks, banana skins and cigarette butts. Your sidewalk is like mine, but probably not as many cracks. Hopefully, one day our sidewalks will meet and we can share a can of condensed milk.</q> (Mary and Max, 2009)
+<blockquote>...everyone’s lives are like a very long sidewalk. Some are well paved. Others, like mine, have cracks, banana skins and cigarette butts. Your sidewalk is like mine, but probably not as many cracks. Hopefully, one day our sidewalks will meet and we can share a can of condensed milk.</blockquote> (Mary and Max, 2009)
 
 
 ### My contacts 🌎
