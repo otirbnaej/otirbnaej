@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <br>
 
-<blockquote><q>...everyone’s lives are like a very long sidewalk. Some are well paved. Others, like mine, have cracks, banana skins and cigarette butts. Your sidewalk is like mine, but probably not as many cracks. Hopefully, one day our sidewalks will meet and we can share a can of condensed milk.</q></blockquote> 
-<div align="right">(Mary and Max, 2009)</div>
+<blockquote><q>If you mix the mashed potatoes and sauce, you can't separate them later. It's forever. The smoke comes out of Daddy's cigarette, but it never goes back in. We cannot go back. That's why it's hard to choose. You have to make the right choice. As long as you don't choose, everything remains possible.</q></blockquote> 
+<div align="right">(Mr. Nobody, 2009)</div>
 
 
 
